@@ -1,1 +1,0 @@
-# is-it-zero-py
