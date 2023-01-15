@@ -4,7 +4,7 @@ from keyboard import is_pressed
 def theMainGuy():
     system("cls")
     print("Hi, i'll tell you if a number is zero or not.")
-    k = input("Press any key to continue.")
+    k = input("Press enter to continue.")
     
     while True:
         try:
